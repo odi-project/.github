@@ -9,6 +9,9 @@
 
 <img width="618" height="262" alt="image" src="https://github.com/user-attachments/assets/73aae9bb-48d1-49ca-b3e7-66f30f57e469" />
 
+<img width="697" height="198" alt="image" src="https://github.com/user-attachments/assets/6d75f7ff-8573-4065-9bae-d8874eec38be" />
+
+
 
 ## 커밋 컨벤션
 ### 커밋 메시지 형식
